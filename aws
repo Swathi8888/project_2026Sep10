@@ -13,3 +13,7 @@ class sampleClass{
 ##################################################################
 Now i am writing the code in local
 print ("Hello, World!")
+
+##################################################################\
+This is html code
+<h1> Welcome to S decors</h1>
